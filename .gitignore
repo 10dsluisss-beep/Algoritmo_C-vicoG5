@@ -422,6 +422,11 @@ FodyWeavers.xsd
 *.msi
 *.msix
 *.msm
+# Exclusiones para la carpeta de Python
+__pycache__
+*.py[cod]
+proyecto-python/.venv/
+proyecto-python/env/
 *.msp
 
 # Official VS Code C# Dev Kit Extension exclusion
