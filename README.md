@@ -14,5 +14,4 @@ Repositorio del equipo Algoritmo Cívico para evidenciar el desarrollo progresiv
 Este repositorio contiene la solución al problema planteado, desarrollado en dos lenguajes de programación (Python y C#)
 
 ### Tecnologías:
-* **C#**
 * **Python**
